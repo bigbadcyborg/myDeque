@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Sully/Desktop/School/college/computer science/CSI 1440/chapter18/dequeue/proj9-ContainerIfc.h
+
+C:/Users/Sully/Desktop/School/college/computer science/CSI 1440/chapter18/dequeue/proj9-MyDeque.h
+sstream
+-
+iostream
+-
+proj9-ContainerIfc.h
+C:/Users/Sully/Desktop/School/college/computer science/CSI 1440/chapter18/dequeue/proj9-ContainerIfc.h
+
+C:/Users/Sully/Desktop/School/college/computer science/CSI 1440/chapter18/dequeue/proj9-driver.cpp
+iostream
+-
+proj9-MyDeque.h
+C:/Users/Sully/Desktop/School/college/computer science/CSI 1440/chapter18/dequeue/proj9-MyDeque.h
+

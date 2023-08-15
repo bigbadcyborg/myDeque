@@ -1,0 +1,3 @@
+C:/Users/Sully/Desktop/School/college/computer science/CSI 1440/chapter18/dequeue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Sully/Desktop/School/college/computer science/CSI 1440/chapter18/dequeue/cmake-build-debug/CMakeFiles/dequeue.dir
+C:/Users/Sully/Desktop/School/college/computer science/CSI 1440/chapter18/dequeue/cmake-build-debug/CMakeFiles/edit_cache.dir
